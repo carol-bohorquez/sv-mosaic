@@ -103,10 +103,6 @@ export const ButtonWrapper = styled.span`
     // padding: 9px;
 	margin: 4px;
   }
-
-  .MuiTouchRipple-child {
-      opacity: 0.5;
-  }
 `;
 
 export const PopoverWrapper = styled.div`
